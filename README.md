@@ -119,6 +119,6 @@
 
 <div align="center">
 
-**Created with ❤️ by Mini Rift Team**
+**Created by viper3❤️**
 
 </div>
