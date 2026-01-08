@@ -1,0 +1,5 @@
+{
+  "name": "League of Mini: 2v2 Rift",
+  "description": "A lightweight, browser-based 2v2 MOBA experience inspired by League of Legends. Features champion selection, real-time combat, minion waves, and a Hextech-styled UI.",
+  "requestFramePermissions": []
+}
